@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087618510894",
+    "project_id": "petnest-75483",
+    "storage_bucket": "petnest-75483.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087618510894:android:c14b4d33671697ab742fbf",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDke5Q_TKS9TLigi9Xf9-PMtJa4xtIEG-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
